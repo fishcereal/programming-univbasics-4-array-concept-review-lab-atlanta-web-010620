@@ -15,8 +15,8 @@ def find_element_index(array, value_to_find)
     if array.length == index 
       return nil 
     elsif array[index] == value_to_find
-    return array[index]
-  end
+      return array[index]
+    end
   end
 end
 
